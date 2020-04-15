@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hbuy_mongodb:war">
+    <output-path>$PROJECT_DIR$/hbuy_mongodb/target</output-path>
+    <root id="archive" name="hbuy_mongodb-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="hbuy_mongodb:war exploded" />
+    </root>
+  </artifact>
+</component>
